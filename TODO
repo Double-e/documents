@@ -2,3 +2,6 @@
 - Research about using mock-server.
 - Research about managin diferente versions of apis.
 - Use Sonar cube to test the quality of the code.
+- Configure eureka and Zuul.
+- Dockerize Microservices.
+- Deploy to DigitalOcean docker containers. docker-compose.
